@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [SciX](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&format=SHORT&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=%3Dauthor%3A(%22pritchard%2C%20jonathan%20r%22%20OR%20%22pritchard%2C%20j%20r%22%20OR%20%22pritchard%2C%20jonathan%22)&sort=score%20desc%2C%20bibcode%20desc&unprocessed_parameter=qform&p_=0).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
