@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Radio Cosmology @MPIfR - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Radio Cosmology @MPIfR -- Pictures"
 permalink: /pictures/
 ---
 

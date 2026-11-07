@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Radio Cosmology @MPIfR - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Radio Cosmology @MPIfR -- Research"
 sitemap: false
 permalink: /research/
 ---

@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Radio Cosmology @MPIfR"
 sitemap: false
 permalink: /allnews.html
 ---

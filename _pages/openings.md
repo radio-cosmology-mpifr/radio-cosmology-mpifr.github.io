@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Radio Cosmology @MPIfR - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

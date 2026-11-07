@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Instrumente"
+title: "Radio Cosmology @MPIfR - Instrumente"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

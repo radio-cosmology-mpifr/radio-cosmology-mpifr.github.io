@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Radio Cosmology @MPIfR - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Radio Cosmology @MPIfR: Team members"
 sitemap: false
 permalink: /team/
 ---
