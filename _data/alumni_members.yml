@@ -7,7 +7,7 @@
   education1: PhD UCL
 
 - name: Suman Majumdar
-  photo: suman.jpg
+  photo: suman.JPG
   duration: 2015-2018, now Ass. Professor at IIT Indore
   info: ERC postdoc
   email: 
@@ -15,8 +15,16 @@
   education1: ???
 
 - name: Catherine Watkinson
-  photo: catherine_watkinson.jpg
+  photo: catherine_watkinson.JPG
   duration: 2007-2011
+  info: PhD student at Imperial
+  email: 
+  number_educ: 1
+  education1: ???
+
+- name: Tom Binnie
+  photo: tom_binnie.JPG
+  duration: ???
   info: PhD student at Imperial
   email: 
   number_educ: 1
