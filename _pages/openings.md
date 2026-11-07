@@ -12,13 +12,12 @@ We are looking for new group members with passion, talent, and grit!
 
 You will have the chance to work on the exciting topic of astrophysics and be exposed to the techniques of machine learning.
 
-### Past open positions
-
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf).
-
 ### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:jpritchard@mpifr-bonn.mpg.de). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email. Typically all PhD recruitment is handled through the IMPRS scheme. 
+If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:jpritchard@mpifr-bonn.mpg.de). State briefly why you are interested and attach a CV, including information about any relevant expertise. 
+ 
+Typically all PhD recruitment is handled through the <a href="https://imprs.mpifr-bonn.mpg.de/site/index.php">IMPRS</a> scheme. Projects are advertised in September, with application deadlines at the start of November. 
+
+Postdoctoral positions will typically be advertised on the AAS job listings, but feel free to inquire if nothing is currently advertised.
 
 We especially welcome postdocs with fellowships. Please get in touch if you're interested in holding a Humboldt or Marie-Curie fellowship at MPIfR.
 
