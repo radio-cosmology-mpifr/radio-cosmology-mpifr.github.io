@@ -21,3 +21,7 @@ Bayesian inference via simulations
 **REACH**
 
 Detecting the 21 cm global signal with REACH.
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/group-nov2025.jpeg" width="95%">
+</figure>
