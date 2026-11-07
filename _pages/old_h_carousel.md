@@ -3,7 +3,7 @@ title: "Radio Cosmology @MPIfR - Home"
 layout: homelay
 excerpt: "Radio Cosmology research group at MPIfR"
 sitemap: false
-permalink: /
+permalink: /old
 ---
 
 **Website under construction - please come back later** Join us! 
