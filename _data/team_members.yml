@@ -9,12 +9,28 @@
   education4: Professor at Imperial College London 
 
 - name: Romain Meriot
-  photo: Milan1.jpg
+  photo: #Milan1.jpg
   info: Postdoc
 
 - name: Anchal Saxena
-  photo: Milan1.jpg
+  photo: #Milan1.jpg
   info: Postdoc
+
+- name: Carina Norregaard
+  photo: #Milan1.jpg
+  info: PhD student (Imperial College)
+
+- name: Nadia Cooper
+  photo: #Milan1.jpg
+  info: PhD student (Imperial College)
+
+- name: Amarilli
+  photo: #Milan1.jpg
+  info: Masters student (Bonn)
+
+- name: Subham
+  photo: #Milan1.jpg
+  info: Masters student (Bonn)
 
 - name: "This could be you !"
   photo: rock.jpg
