@@ -24,8 +24,6 @@ We are members of REACH and work actively with the SKA-EoR Science working group
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mpifr.png" style="width: 260px">
-</figure>
-<figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ICL_Logo_Blue.pdf" style="width: 260px">
 </figure>
 
