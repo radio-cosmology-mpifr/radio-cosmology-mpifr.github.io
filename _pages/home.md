@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Website under construction - please come back later** Join us! 
+**Website under construction - please come back later**  
 
 We are the Radio Cosmology research group at Max Planck Institute for Radio Astronomy led by Prof Jonathan Pritchard.
 

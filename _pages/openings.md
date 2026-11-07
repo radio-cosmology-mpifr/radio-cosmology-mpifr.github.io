@@ -28,7 +28,3 @@ If you are a Master student at Bonn University looking for a Master project, con
 ### Bsc / Master students from elsewhere
 Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
 
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
