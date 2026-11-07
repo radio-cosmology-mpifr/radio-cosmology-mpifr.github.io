@@ -10,8 +10,8 @@ title: Radio Cosmology @MPIfR
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Radio Cosmology group @MPIfR.
-#baseurl: ""
-url: ""
+baseurl: ""
+url: "https://radio-cosmology-mpifr.github.io/"
 
 include:
   - .htaccess
