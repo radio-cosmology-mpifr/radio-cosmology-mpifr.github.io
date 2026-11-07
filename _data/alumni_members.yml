@@ -16,17 +16,50 @@
 
 - name: Catherine Watkinson
   photo: catherine_watkinson.JPG
-  duration: 2007-2011
+  duration: 2011-2015
   info: PhD student at Imperial
   email: 
-  number_educ: 1
-  education1: ???
+  number_educ: 0
+
+- name: Claude Schmit
+  photo: claude.JPG
+  duration: 2014-2018
+  info: PhD student at Imperial (co-supervised with Alan Heavens)
+  email: 
+  number_educ: 0
 
 - name: Tom Binnie
   photo: tom_binnie.JPG
-  duration: ???
+  duration: 2016-2021
   info: PhD student at Imperial
   email: 
-  number_educ: 1
-  education1: ???
+  number_educ: 0
+
+- name: Adelie Gorce
+  photo: 
+  duration: 2017-2020
+  info: PhD student at Imperial and Paris-Orsay (co-supervised with Marian Douspis)
+  email: 
+  number_educ: 0
+
+- name: Ian Hothi
+  photo: 
+  duration: 2018-2022
+  info: PhD student at Imperial (co-supervised with Emma Chapman)
+  email: 
+  number_educ: 0
+
+- name: Kimeel Sookunan
+  photo: 
+  duration: 2019-2024
+  info: PhD student at Imperial (co-supervised with Daniel Mortlock & Emma Chapman)
+  email: 
+  number_educ: 0
+
+- name: Yordan Ignatov
+  photo: 
+  duration: 2021-2025
+  info: PhD student at Imperial
+  email: 
+  number_educ: 0
 
