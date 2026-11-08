@@ -26,5 +26,6 @@ The group moved to MPIfR from Imperial College London in 2025 and is still partl
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mpifr.png" style="width: 260px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ICL_Logo_Blue.pdf" style="width: 260px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_dynaverse.png" style="width: 260px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UNI_Bonn_Logo.jpg" style="width: 260px">
 </figure>
 
