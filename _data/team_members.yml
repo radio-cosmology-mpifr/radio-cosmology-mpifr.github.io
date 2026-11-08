@@ -2,19 +2,18 @@
   photo: jonathan.jpg
   info: Professor and Group Leader
   email: jpritchard@mpifr-bonn.mpg.de
-  number_educ: 5
-  education1: MSci Natural
-  education2: PhD Caltech
-  education3: Hubble Fellow at CfA
-  education4: Professor at Imperial College London 
+  number_educ: 3
+  education1: Independent Group leader @ MPIfR
+  education2: Professor at University of Bonn
+  education4: Visiting Professor at Imperial College London 
 
 - name: Romain Meriot
   photo: romain.png
-  info: Postdoc
+  info: Postdoc (MPIfR)
 
 - name: Anchal Saxena
   photo: anchal.png
-  info: Postdoc
+  info: Postdoc (MPIfR)
 
 - name: Carina Norregaard
   photo: carina.png

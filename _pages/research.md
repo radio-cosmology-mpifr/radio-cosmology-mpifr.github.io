@@ -8,8 +8,24 @@ permalink: /research/
 
 # Research
 
-Updating soon -- stay put. (Aug 11 2023)
+The overarching theme of the group is to apply radio astronomy observations to the goal of learning about cosmology. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+Our current focus is on 21 cm cosmology and using the 21 cm line of neutral hydrogen as a probe of the epoch of reionization and the cosmic dawn.
 
+Current areas of activity include:
 
+**Simulation Based Inference for SKA-LOW**
+
+Bayesian inference via simulations
+
+**Detecting the global 21 cm signal with REACH**
+
+Detecting the 21 cm global signal with REACH.
+
+**Line intensity mapping x 21cm with SKA and CCAT**
+
+Line intensity mapping x 21cm with SKA and CCAT
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/group-nov2025.jpeg" width="95%">
+</figure>

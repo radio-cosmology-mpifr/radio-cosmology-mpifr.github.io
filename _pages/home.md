@@ -12,7 +12,7 @@ We are the Radio Cosmology research group at Max Planck Institute for Radio Astr
 
 Our mission is the application of radio observations for cosmology. 
 
-Our current focus is the use of the 21 cm line of neutral hydrogen as a probe of the epoch of reionization and cosmic dawn. To this end, we are engaging in preparation work for the Square Kilometre Array and working with the REACH experiment.
+Our current focus is the use of the 21 cm line of neutral hydrogen as a probe of the epoch of reionization and cosmic dawn. We work to develop improved models of the physics of this period and to develop inference and machine learning techiques that can learn this physics from observations. To this end, we are engaged in preparation work for the Square Kilometre Array, data analysis of NenuFAR, and working with the REACH experiment.
 
 We are excited for the opportunities for Bayesian inference and machine learning in dealing with large data sets.
 
