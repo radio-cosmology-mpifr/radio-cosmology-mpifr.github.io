@@ -8,13 +8,21 @@ permalink: /pictures/
 # Pictures
 Jump to: [MPIfR](#mpifr), [Imperial](#imperial)
 
-
 ## MPIfR
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/montage_mpif.jpg" width="60%">
+</figure>
+
+
+## Imperial
+
+Montage of photos from when the group was based at Imperial (2011-2025).
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures_mpifr %}
+{% for pic in site.data.pictures_imperial %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
@@ -48,11 +56,4 @@ Jump to: [MPIfR](#mpifr), [Imperial](#imperial)
 </div>
 {% endif %}
 
-
-
-## Imperial
-Montage of photos from when the group was based at Imperial (2011-2025).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
 
