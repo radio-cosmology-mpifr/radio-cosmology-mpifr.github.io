@@ -20,7 +20,7 @@ We are excited for the opportunities for Bayesian inference and machine learning
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/21cm_lightcone.png" width="95%">
 </figure>
 
-The group moved to MPIfR from Imperial College London in 2025 and is still partly based at Imperial.
+The group moved to MPIfR from Imperial College London in 2025 and is still partly based at Imperial. We also have close links with University of Bonn and the Dynaverse Excellence Cluster.
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mpifr.png" style="width: 260px">

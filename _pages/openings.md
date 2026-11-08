@@ -6,11 +6,15 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# Joining the Radio Cosmology group
 
-We are looking for new group members with passion, talent, and grit!
+We are looking for new group members with enthusiasm, talent, and grit!
 
 You will have the chance to work on the exciting topic of astrophysics and be exposed to the techniques of machine learning.
+
+### Open positions
+
+Currently we have no open positions. 
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:jpritchard@mpifr-bonn.mpg.de). State briefly why you are interested and attach a CV, including information about any relevant expertise. 
