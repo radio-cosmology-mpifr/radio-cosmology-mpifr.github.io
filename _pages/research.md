@@ -22,9 +22,13 @@ Bayesian inference via simulations
 
 Detecting the 21 cm global signal with REACH.
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/REACH.png" width="35%">
+</figure>
+
 **Line intensity mapping x 21cm with SKA and CCAT**
 
-Line intensity mapping x 21cm with SKA and CCAT
+We are affliated with the Dynaverse Excellence Cluster, which spans University of Bonn, University of Cologne, MPIfR, and some other institutions. The focus of the cluster is "Our Dynamic Universe", and we are involved with a project exploring synergies between SKA and CCAT for better understanding the epoch of reionization.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/group-nov2025.jpeg" width="95%">
