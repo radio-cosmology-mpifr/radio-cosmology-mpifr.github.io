@@ -7,7 +7,7 @@ permalink: /activities.html
 ---
 # Activities
 
-Coming soon...
+For some pictures of the group's activities please visit the <a href="/pictures">photo gallery</a>.
 
 ## Talks
 
